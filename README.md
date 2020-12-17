@@ -12,11 +12,8 @@
 - C++
 - Java
 - Python
-- - Tensorflow
+- Haskell
 - HTML5, CSS3, JS
-- - Electron
-- - JQuery
-- - TypeScript
 - Node.JS
 - MongoDB
 
