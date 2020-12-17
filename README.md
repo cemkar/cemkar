@@ -3,10 +3,10 @@
   Age: 20 <br>
   Gender: Male <br>
   Pronouns: (He/Him) 👱‍♂️ <br>
-  Where I'm From: America, PA 🇺🇸 <br>
+  Location: PA, U.S. 🇺🇸 <br>
   Language: English <br>
   Preferred Communication: FaceTime, or Email [a link](cemkar.dev) *Email on webpage
-<h2>Who am I</h2>
+<h2>Who am I?</h2>
 <p>I'm a student currently studying Computer Science and Mathematics, I'm passionate about Software Development. I've always had a interest in creating and designing solutions since I was 13 when I first developed scripts using python. I'm always looking to collaborate with people looking for help in there Startup, I'm pretty open to new experiences, and always have a interest in learning new languages and new libraries.</p>
 <h2>Experience With</h2>
 
