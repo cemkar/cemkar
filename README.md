@@ -9,6 +9,16 @@
 <h2>Who am I?</h2>
 <p>&nbsp&nbsp&nbsp&nbspI'm a student currently studying Computer Science and Mathematics, I'm passionate about Software Development. I've always had a interest in creating and designing solutions since I was 13 when I first developed scripts using python. I'm always looking to collaborate with people looking for help in there Startup, I'm pretty open to new experiences, and always have a interest in learning new languages and new libraries.</p>
 <h2>Experience With</h2>
+- C++
+- Java
+- Python
+- - Tensorflow
+- HTML5, CSS3, JS
+- - Electron
+- - JQuery
+- - TypeScript
+- Node.JS
+- MongoDB
 
 
 
