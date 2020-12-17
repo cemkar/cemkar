@@ -1,12 +1,12 @@
 ### A look at Cem Joseph Kar
-<h1>**About Me**</h1>
+<h2>About Me</h2>
   Age: 20 
   Gender: Male 
   Pronouns: (He/Him) 👱‍♂️
   Where I'm From: America, PA 🇺🇸
   Language: English
   Preferred Communication: FaceTime, or Email [a link](cemkar.dev) *Email on webpage
-<h2>**Who am I**</h2>
+<h2>Who am I</h2>
 <p>I'm a student currently studying Computer Science and Mathematics, I'm passionate about Software Development. I've always had a interest in creating and designing solutions since I was 13 when I first developed scripts using python. I'm always looking to collaborate with people looking for help in there Startup, I'm pretty open to new experiences, and always have a interest in learning new languages and new libraries.</p>
 <h2>Experience With</h2>
 
