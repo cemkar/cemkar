@@ -1,4 +1,4 @@
-### <h1>A Glance At Cem Kar</h1>
+### <h1>Cem Kar</h1>
 <h2>About Me</h2>
   Age: 20 <br>
   Gender: Male <br>
