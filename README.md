@@ -17,6 +17,11 @@
 - HTML5, CSS3, JS <br>
 - Node.JS <br> 
 - MongoDB
+<h2>Interests</h2>
+- Finance <br>
+- Mathematics <br>
+- Machine Learning <br>
+- UI Design and Animation
 
 
 
