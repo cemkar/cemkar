@@ -1,8 +1,9 @@
 ### <h1>Cem Kar</h1>
 <h2>About Me</h2>
   Age: 20 <br>
-  Gender: Male <br>
+  Gender: Male (Cisgender) <br> 
   Pronouns: (He/Him) 👱‍♂️  <br>
+  
   Location: PA, U.S. 🇺🇸 <br>
   Language: English <br>
   Preferred Communication: 📹 FaceTime, or 📫 Email *Located on website -> <a href="https://cemkar.dev/" target="_top">cemkar.dev</a>
