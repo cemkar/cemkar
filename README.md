@@ -13,16 +13,15 @@
 - C++ <br>
 - Java <br>
 - Swift <br>
-- Python <br>
+- C# <br>
+- Unity <br>
 - Haskell <br>
 - HTML5, CSS3, JS <br>
 - Node.JS <br> 
 - MongoDB
 <h2>Interests</h2>
-- Finance <br>
-- Mathematics <br>
-- Machine Learning <br>
-- UI Design and Animation
+- Virtual Reality <br>
+- Data Science w/ Finance <br>
 
 
 
