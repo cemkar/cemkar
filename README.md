@@ -18,11 +18,8 @@
 - Haskell <br>
 - HTML5, CSS3, JS <br>
 - Node.JS <br> 
-- MongoDB
-<h2>Interests</h2>
-- Virtual Reality <br>
-- Data Science w/ Finance <br>
-
+- MongoDB <br>
+- Python
 
 
 
