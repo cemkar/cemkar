@@ -4,7 +4,7 @@
   Location: Pennslvania, U.S. 🇺🇸 <br>
   Language: English <br>
 <h2>Who am I?</h2>
-<p>&nbsp&nbsp&nbsp&nbsp I am currently working towards my B.A. in Philosophy from the Millersville University of Pennslyvania with a Minor in Creative Writing & Computer Science. I have too many interests, and not enough time to follow them. </p>
+<p>I am currently working towards my B.A. in Philosophy from the Millersville University of Pennslyvania with a Minor in Creative Writing & Computer Science. I have too many interests, and not enough time to follow them. </p>
 <h2>Relevent Skills and Experiences: "What I have to offer"</h2>
 <h3>Applied Computer Science Knowledge</h3><br>
   Programing Languages: C++, Java, Swift, Haskell, Haskell, OCaml, (Web Development, Front End/Back End)
