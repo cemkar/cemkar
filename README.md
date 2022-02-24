@@ -1,23 +1,18 @@
 ### <h1>Cem Kar</h1>
 <h2>About Me</h2>
   Age: 21 <br>
-  Location: PA, U.S. 🇺🇸 <br>
+  Location: Pennslvania, U.S. 🇺🇸 <br>
   Language: English <br>
-  Preferred Communication: 📹 FaceTime, or 📫 Email *Located on website -> <a href="https://cemkar.dev/" target="_top">cemkar.dev</a>
 <h2>Who am I?</h2>
-<p>&nbsp&nbsp&nbsp&nbspI'm a student currently studying Philosophy, with a minor in Creative Writing, and Computer Science. I'm passionate about Software Development. I've always had a interest in creating and designing solutions to problems since I was 13 where i would make scripts using python. I'm always looking to collaborate with people looking for help on there projects / startup ideas, I'm pretty open to new experiences, and always have a interest in learning more. </p>
-<h2>Experience With</h2>
-- C++ <br>
-- Java <br>
-- Swift <br>
-- C# <br>
-- Unity <br>
-- Haskell <br>
-- HTML5, CSS3, JS <br>
-- Node.JS <br> 
-- MongoDB <br>
-- Python
-
+<p>&nbsp&nbsp&nbsp&nbsp I am currently working towards my B.A. in Philosophy from the Millersville University of Pennslyvania with a Minor in Creative Writing & Computer Science. I have too many interests, and not enough time to follow them. </p>
+<h2>Relevent Skills and Experiences: "What I have to offer"</h2>
+<h3>Applied Computer Science Knowledge</h3><br>
+  Programing Languages: C++, Java, Swift, Haskell, Haskell, OCaml, (Web Development, Front End/Back End)
+  <br>
+  Libraries, Frameworks, Engines: React, Unity, Bootstrap
+<h3>Other Applicable Skills</h3><br>
+Writing Experience: Technical Writing, Journalist/Article Writing, Academic Writing<br>
+Creative Writing Interests: Speculative Fiction (Sci-Fi, Dystopian, Alternative History), Poetry (Free-Verse, Experimental, Visual, Auditory)<br>
 
 
 
