@@ -12,7 +12,7 @@
   Libraries, Frameworks, Engines: React, Unity, Bootstrap
 <h3>Other Applicable Skills</h3>
 Writing Experience: Technical Writing, Journalist/Article Writing, Academic Writing<br>
-Creative Writing Interests: Speculative Fiction (Sci-Fi, Dystopian, Alternative History), Poetry (Free-Verse, Experimental, Visual, Auditory)<br>
+Creative Writing Interests: Speculative Fiction (Sci-Fi, Dystopian, Alternative History),<br> Poetry (Free-Verse, Experimental, Visual, Auditory)<br>
 
 
 
