@@ -7,12 +7,14 @@
 <p>I am currently working towards my B.A. in Philosophy from the Millersville University of Pennslyvania with a Minor in Creative Writing & Computer Science. I have too many interests, and not enough time to follow them. </p>
 <h2>Relevent Skills and Experiences: "What I have to offer"</h2>
 <h3>Applied Computer Science Knowledge</h3>
-  Programing Languages: C++, Java, Swift, Haskell, Haskell, OCaml, (Web Development, Front End/Back End)
+  Programing Languages: C++, Java, Swift, Haskell, Haskell, OCaml, (Web Development: HTML, CSS, JS)
   <br>
   Libraries, Frameworks, Engines: React, Unity, Bootstrap
 <h3>Other Applicable Skills</h3>
-Writing Experience: Technical Writing, Journalist/Article Writing, Academic Writing<br>
+Writing Experience: Journalist, Content Writing, Academic Writing<br>
 Creative Writing Interests: Speculative Fiction (Sci-Fi, Dystopian, Alternative History),<br> Poetry (Free-Verse, Experimental, Visual, Auditory)<br>
+<br>
+Currently working towards becoming more adept in technical writing through utilizing my computer science knoweledge and my writing skills.
 
 
 
