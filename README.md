@@ -1,6 +1,7 @@
 <!--Welcome GIF-->
   ![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
-
+<h3>A Short Description</h3>
+<p>Hello. I'm Gem, a writer looking to integrate his craft with information technology. I dabble in different forms of writing, ranging from creative content to user experience writing. I'm looking to broaden my abilities as a writer, and help make the interweb's interfaces more intuitive and friendly.
 <h3>Contact me 📞</h3>
 <a href="https://linkedin.com/in/cem kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cem kar" height="30" width="40" /></a>
 <a href="https://instagram.com/kar_cj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kar_cj" height="30" width="40" /></a>
