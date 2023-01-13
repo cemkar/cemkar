@@ -1,6 +1,7 @@
 <!--Welcome GIF-->
   ![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
 <!--External links-->
+<h2>Getting A Hold Of Me 📞</h2>
 <a href="https://linkedin.com/in/cem kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cem kar" height="30" width="40" /></a>
 <a href="https://instagram.com/kar_cj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kar_cj" height="30" width="40" /></a>
 <!--Description and portfolio-->
