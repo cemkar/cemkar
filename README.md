@@ -1,5 +1,5 @@
 <!--Welcome Gif-->
-  ![align="center"](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
+  ![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
 
 
 <h3 align="center">A user experience writer, transforming words into impressions.</h3>
