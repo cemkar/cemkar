@@ -1,4 +1,4 @@
-### <h1>Cem Kar</h1>
+### <h1>Eyo! I'm Gem 👋 </h1>
 <h2>About Me</h2>
   Age: 21 <br>
   Location: Pennslvania, U.S. 🇺🇸 <br>
