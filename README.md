@@ -1,7 +1,7 @@
 <!--Welcome Gif-->
 ![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
 
-<h3 align="center">Hi, I'm Gem! A user experience designer, who crafts creativity into experiences.</h3>
+<h3 align="center">A user experience designer, transforming words into experiences.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
