@@ -1,6 +1,6 @@
-<h1>
+<!--Welcome Gif-->
 ![](https://github.com/cemkar/cemkar/blob/main/BCCDE7F2-26BD-4A6A-8DED-2C7E001B7579%202.gif)
-</h1>
+
 <h2>About Me</h2>
   Age: 22 <br>
   Location: Pennslvania, U.S. 🇺🇸 <br>
