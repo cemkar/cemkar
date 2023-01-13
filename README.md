@@ -1,7 +1,7 @@
 <!--Welcome Gif-->
   ![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
 
-<h3></h3> Hey, I'm Gem. A writer looking to intregrate information technology into my creative craft. I dabble in creative writing, content writing, and user experience writing. Quoting from Franz Kafka, 
+<h3> Hey, I'm Gem. A writer looking to intregrate information technology into my creative craft. I dabble in creative writing, content writing, and user experience writing. Quoting from Franz Kafka,</h3></br>
 >“Don't bend; don't water it down; don't try to make it logical; 
 >don't edit your own soul according to the fashion. 
 >Rather, follow your most intense obsessions mercilessly.” 
