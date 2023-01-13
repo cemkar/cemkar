@@ -1,5 +1,5 @@
 <!--Welcome Gif-->
-<h1 align="center">![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)</h1>
+<div align="center">![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)</div>
 
 <h3 align="center">A user experience writer, transforming words into impressions.</h3>
 <a href="https://linkedin.com/in/cem kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cem kar" height="30" width="40" /></a>
