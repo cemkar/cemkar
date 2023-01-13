@@ -1,5 +1,5 @@
 <!--Welcome Gif-->
-![](https://github.com/cemkar/cemkar/blob/main/BCCDE7F2-26BD-4A6A-8DED-2C7E001B7579%202.gif)
+![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
 
 <h2>About Me</h2>
   Age: 22 <br>
