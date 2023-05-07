@@ -2,7 +2,7 @@
   ![](https://github.com/cemkar/cemkar/blob/main/GIF.gif)
 <h3>A Short Description of Me</h3>
 <p>Hello 👋, I'm Gem! A writer looking to integrate my love of words with my interests in information technology. I dabble in creative content writing and user interface writing (content design, microcopy, whatever you want to call it). I'm looking to broaden my abilities as a writer; helping to make the interweb's interfaces more intuitive and friendly for everyone! With that, I am also a livid-literary junkie, whether it be post-modern literature, classical literature, or philosophy; I read everything.
-<h3>Hitting Up My DM's</h3>
+<h3>Contact Information</h3>
 <a href="https://linkedin.com/in/cem kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cem kar" height="30" width="40" /></a>
 <a href="https://instagram.com/kar_cj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kar_cj" height="30" width="40" /></a>
 
