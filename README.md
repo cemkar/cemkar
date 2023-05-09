@@ -29,7 +29,7 @@
 	<ul>
 		<li> 🖥 Currently in the process of completeting the Odin Project </li>
 		<li>📊 Have an interest in Data Science </ol>
-		<li>📚 In my free time, I write fiction, in hopes of being a published author one day one </li>
+		<li>📚 In my free time, I write fiction; hoping that one day I can become a published author. </li>
 		<li>💭 Currently in my 5th year, working on B.A. in philosophy! </li>
 		<li>
 			📞 You can reach me through these mediums:
