@@ -68,13 +68,13 @@
 	</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=cemkar&theme=github-light&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)"/>
 </div>
-<!--<h2 align="right">
+<h2 align="right">
 	Stats
 	<img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" width="30px"/>
 </h2>
 <div align="right">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemkar"/>
-</div>-->
+</div>
 
 
 
