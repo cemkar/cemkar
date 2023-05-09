@@ -15,10 +15,14 @@
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=cemkar&style=flat-square&color=success" alt=""/>
 </div>
+<h1 align="center">
+	You've Found My Page!
+	<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40px"/>
+</h1>
 <div align="center"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600px"/></div>
 <div>
 <h2>
-	<img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="40px"/>
+	<img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
 	About Me
 </h2>
 	<p>I'm Cem Kar, a junior full-stack developer and writer who is based in Lancaster, Pennsylvania. </p>
@@ -26,6 +30,7 @@
 		<li> 🖥 Currently in the process of completeting the Odin Project </li>
 		<li>📊 Have an interest in Data Science </ol>
 		<li>📚 In my free time, I write fiction, in hopes of being a published author one day one </li>
+		<li>💭 Currently in my 5th year, working on B.A. in philosophy! </li>
 		<li>
 			📞 You can reach me through these mediums:
 			<a href="https://www.linkedin.com/in/cem-kar-021614251/">
