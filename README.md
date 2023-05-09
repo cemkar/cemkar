@@ -15,9 +15,7 @@
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=cemkar&style=flat-square&color=success" alt=""/>
 </div>
-<h1 align="center">
-	Hello!
-</h1>
+<div align="center"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600px"/></div>
 <div>
 <h2>
 	<img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="40px"/>
