@@ -19,7 +19,10 @@
 	Hello!
 </h1>
 <div>
-<h2>About Me</h2>
+<h2>
+	<img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="40px"/>
+	About Me
+</h2>
 	<p>I'm Cem Kar, a junior full-stack developer and writer who is based in Lancaster, Pennsylvania. </p>
 	<ul>
 		<li> 🖥 Currently in the process of completeting the Odin Project </li>
@@ -35,8 +38,11 @@
 			</a>
 		</li>
 	</ul>
-<h2 align="left">Languages & Tools</h2>
-<div>
+<h2 align="right">
+	Languages & Tools
+	<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50px"/>
+</h2>
+<div align="right">
         <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -54,10 +60,17 @@
 </div>
 <div>
 	<h2> 
-		<img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="40"/>
+		<img src="https://media.giphy.com/media/LccTANVC76vIyl77Ct/giphy.gif" width="18px"/>
 		Streaks
 	</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=cemkar&theme=github-light&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)"/>
+</div>
+<h2 align="right">
+	Stats
+	<img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" width="30px"/>
+</h2>
+<div align="right">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemkar"/>
 </div>
 
 
