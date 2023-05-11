@@ -16,7 +16,7 @@
 	<img src="https://komarev.com/ghpvc/?username=cemkar&style=flat-square&color=success" alt=""/>
 </div>
 <h1 align="center">
-	You've Found My Page!
+	Hi There, My Name is Cem 
 	<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40px"/>
 </h1>
 <div align="center"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600px"/></div>
@@ -49,6 +49,7 @@
         <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 	<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
     	<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     	<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
