@@ -27,10 +27,10 @@
 </h2>
 	<p>I'm Cem Kar, a junior full-stack developer and writer who is based in Lancaster, Pennsylvania. </p>
 	<ul>
-		<li> 🖥 Currently in the process of completeting the Odin Project </li>
+		<li> 🖥 Currently in the process of completing the Odin Project </li>
 		<li>📊 Have an interest in Data Science </ol>
 		<li>📚 In my free time, I write fiction; hoping that one day I can become a published author. </li>
-		<li>💭 Currently in my 5th year, working on B.A. in philosophy! </li>
+		<li>💭 Currently in my 5th year, working on my B.A. in philosophy! </li>
 		<li>
 			📞 You can reach me through these mediums:
 			<a href="https://www.linkedin.com/in/cem-kar-021614251/">
