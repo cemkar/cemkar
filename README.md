@@ -16,7 +16,7 @@
 	<img src="https://komarev.com/ghpvc/?username=cemkar&style=flat-square&color=success" alt=""/>
 </div>
 <h1 align="center">
-	Hi There, My Name is Cem 
+	Hi There, My Name is Gem 
 	<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40px"/>
 </h1>
 <div align="center"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600px"/></div>
@@ -25,7 +25,7 @@
 	<img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
 	About Me
 </h2>
-	<p>I'm Cem Kar, a junior full-stack developer and writer who is based in Lancaster, Pennsylvania. </p>
+	<p>I'm Gem, an apsiring full-stack developer and writer who is based in Lancaster, Pennsylvania. </p>
 	<ul>
 		<li> 🖥 Currently in the process of completing the Odin Project </li>
 		<li>📊 Have an interest in Data Science </ol>
