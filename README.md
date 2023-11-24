@@ -32,7 +32,7 @@
 		<li>📚 In my free time, I write fiction; hoping that one day I can become a published author. </li>
 		<li>💭 Currently in my 5th year, working on my B.A. in philosophy! </li>
 		<li>
-			📞 You can reach me through
+			📞 You can reach me through 
 			<a href="https://www.linkedin.com/in/cem-kar-021614251/">
 				<img src="https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&logoColor=white&style=flat-square"/>
 			</a>
